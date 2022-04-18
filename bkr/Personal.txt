@@ -1,0 +1,23 @@
+Dear Admin,
+this txt contains Username and Password to log into the Terminal.
+Username: Admin
+Password: bkrdatabase20
+The Terminal contains by defeault a message found in Level 200.
+Other files (referred as "packets") will be sent in your mail soon.
+Please, follow the instructions occasionaly displayed on your screen. They are VITAL.
+DO NOT share this file.
+
+                                                        -The M.E.G. Bettering humanity.
+
+--------------------------------------------------------------------------------------------------
+
+Caro Amministratore,
+questo file contiene nome utente e password per eseguire l'accesso nel Terminale.
+Nome utente: Admin
+Password: bkrdatabase20
+Il Terminale contiene di defeault un messaggio trovato nel livello 200.
+Altri files (pacchetti) verranno mandati nella tua e-mail presto.
+Per favore, sequi le istruzioni che occasionalmente saranno mostrate nel tuo schermo. Sono VITALI per il funzionamento del Terminale
+NON CONDIVIDERE questo file.
+
+                                                        -The M.E.G. Bettering humanity.
